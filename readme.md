@@ -135,3 +135,13 @@ bottle 91.10%
 * Object counting
 * Flask web interface
 * Mobile deployment
+
+# GitHub Repository
+
+Repository Link:
+
+https://github.com/manvithaindukuru/object-detection-system
+
+#Output Screenshot
+
+output.png
