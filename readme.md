@@ -38,19 +38,17 @@ YOLOv4 is a powerful deep learning model trained on the COCO dataset for detecti
 # 📂 Project Structure
 
 ```plaintext
-object-detection-system/
+ODS/
 │
 ├── app.py
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── templates/
-│   └── index.html
 │
 ├── yolo-coco-data/
 │   ├── coco.names
-│   └── yolov4.cfg
+│   ├── yolov4.cfg
+│   └── yolov4.weights
+│
+├── requirements.txt
+└── README.md
 ```
 
 ---
@@ -137,13 +135,3 @@ bottle 91.10%
 * Object counting
 * Flask web interface
 * Mobile deployment
-
-## GitHub Repository
-
-Repository Link:
-
-https://github.com/manvithaindukuru/object-detection-system
-
-#Output Screenshot
-
-output.png
