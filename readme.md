@@ -143,3 +143,7 @@ bottle 91.10%
 Repository Link:
 
 https://github.com/manvithaindukuru/object-detection-system
+
+#Output Screenshot
+
+
