@@ -146,4 +146,4 @@ https://github.com/manvithaindukuru/object-detection-system
 
 #Output Screenshot
 
-
+output.png
