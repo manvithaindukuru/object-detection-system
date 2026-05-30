@@ -38,17 +38,19 @@ YOLOv4 is a powerful deep learning model trained on the COCO dataset for detecti
 # 📂 Project Structure
 
 ```plaintext
-ODS/
+object-detection-system/
 │
 ├── app.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── templates/
+│   └── index.html
 │
 ├── yolo-coco-data/
 │   ├── coco.names
-│   ├── yolov4.cfg
-│   └── yolov4.weights
-│
-├── requirements.txt
-└── README.md
+│   └── yolov4.cfg
 ```
 
 ---
